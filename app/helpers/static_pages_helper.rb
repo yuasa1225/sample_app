@@ -1,4 +1,2 @@
-module ApplicationHelper
-
-
+module StaticPagesHelper
 end
