@@ -16,6 +16,7 @@ class UsersController < ApplicationController
     else
       render 'new'
     end
+  end  
 
     private
 
@@ -24,5 +25,4 @@ class UsersController < ApplicationController
                                     :password_confirmation)
       end
 
-  end
 end
